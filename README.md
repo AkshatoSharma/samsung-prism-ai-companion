@@ -24,3 +24,4 @@ A web-based interactive AI assistant with computer vision capabilities. This pro
 - Google Gemini API (Generative AI)
 - WebRTC (Webcam & Screen Capture)
 - Web Speech API (Speech Recognition & Synthesis)
+# samsung-prism-ai-companion
