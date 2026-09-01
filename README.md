@@ -1,6 +1,6 @@
-# Samsung Prism AI Chatbot
+# Samsung Prism AI Companion
 
-A web-based interactive AI Chatbot with computer vision capabilities. This project integrates real-time object detection using TensorFlow.js (MobileNet) and conversational AI powered by Google's Gemini API. 
+A web-based interactive AI assistant with computer vision capabilities. This project integrates real-time object detection using TensorFlow.js (MobileNet) and conversational AI powered by Google's Gemini API. 
 
 ## Features
 - **Real-Time Object Detection**: Uses the device's webcam to analyze and identify objects in real-time.
